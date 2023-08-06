@@ -1,0 +1,320 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	height: 3000px;
+	width: 800px;
+	border: 2px solid white;
+	background-color: white;
+}
+
+.a{
+	height:600px;
+	width: 800px;
+	border: 1px solid white;
+	background-color:yellow;
+	
+}
+.b{
+	height:600px;
+	width: 800px;
+	border: 1px solid white;
+	background-color: white;
+	
+}
+.c{
+	height:600px;
+	width: 800px;
+	border: 1px solid white;
+	background-color: white;
+	
+}
+.d{
+	height:600px;
+	width: 800px;
+	border: 1px solid white;
+	background-color:white; 
+	
+}
+.e{
+	height:600px;
+	width: 800px;
+	border: 1px solid white;
+	background-color: white;	
+}
+a1{
+	height: 600px;
+	width:400px ;
+	border: 1px solid orange;
+	float: left;
+}
+.a2{
+	height: 600px;
+	width:400px ;
+	border: 1px solid yellow;
+	float: right;
+}
+.img1{
+	height: 600px;
+	width: 400px;
+	border: 1px solid yellow;
+}
+.b1{
+	height:100px;
+	width: 800px;
+	border: 1px solid white;
+	background-color:;	
+}
+.b2{
+	height:500px;
+	width: 800px;
+	border: 1px solid white;
+	background-color: whitesmoke;	
+}
+.h{
+	margin-top: 10px;
+	text-align: center;
+	color: black;
+}
+.rr{
+	margin-top: 10px;
+	color: yellow;
+}
+p{
+	margin-top: 10px;}
+	.b21{
+		height: 250px;
+		width: 800px;
+		border: 1px solid white;
+	}
+	.b22{
+		height: 250px;
+		width: 800px;
+		border: 1px solid white;
+	}
+	.bb21{
+	height:180px;
+	width: 200px;
+	float: left;
+	border: 2px solid white;
+	background-color:#FFF6DC;
+	margin-top: 20px;
+	margin-left: 40px;	
+}
+.bb22{
+	height:180px;
+	width: 200px;
+	float: left;
+	border: 2px solid white;
+	background-color: #FFF6DC;
+	margin-top: 20px;
+	margin-left: 40px;	
+}
+.bb23{
+	height:180px;
+	width: 200px;
+	float: left;
+	border: 2px solid white;
+	background-color:#FFF6DC;
+	margin-top: 20px;
+	margin-left: 40px;	
+}
+.b221{
+	height:180px;
+	width: 200px;
+	float: left;
+	border: 2px solid white;
+	background-color:#FFF6DC ;
+	margin-top: 20px;
+	margin-left: 40px;	
+}
+.b222{
+	height:180px;
+	width: 200px;
+	float: left;
+	border: 2px solid white;
+	background-color:#FFF6DC ;
+	margin-top: 20px;
+	margin-left: 40px;	
+}
+.b223{
+	height:180px;
+	width: 200px;
+	float: left;
+	border: 2px solid white;
+	background-color:#FFF6DC;
+	margin-top: 20px;
+	margin-left: 40px;	
+}
+.c1{
+		height: 300px;
+		width: 800px;
+		border: 1px solid white;
+	}
+	.c2{
+		height: 300px;
+		width: 800px;
+		border: 1px solid white;
+
+	}
+	.c11{
+		height: 300px;
+		width: 400px;
+		border: 1px solid white;
+		float: left;
+
+	}
+	.c21{
+		height: 300px;
+		width: 800px;
+		border: 1px solid white;
+		background-color: black;
+		
+	}
+	
+	.d1{
+		height: 400px;
+		width: 800px;
+		border: 1px solid whitesmoke;
+	}
+	.d2{
+		height: 200px;
+		width: 800px;
+		border: 1px solid white;
+	}
+.e1{
+	height: 400px;
+	width: 800px;
+	border: 1px solid white;
+	background-color: black;
+}
+.e2{
+	height: 200px;
+	width: 800px;
+	border: 1px solid white;
+	background-color: darkgrey;
+}
+.img2{
+	height: 300px;
+	width: 400px;
+	border: 1px solid whitesmoke;
+	float: right;
+}
+.img3{
+	height: 300px;
+	width: 400px;
+	border: 1px solid black;
+	float: right;
+}
+
+.h2{
+	margin-top: 20px;
+	color: black;
+	text-transform: capitalize;
+}
+.p{ margin-left: 5px;
+	text-transform: justify;
+	color: black;
+}
+.button{
+	border: 5px  solid yellow;
+	color: black;
+	background-color: yellow;
+	margin-top: 20px;
+
+}
+h4{
+	margin-top: 10px;
+	color: white;
+}
+h5{
+	margin-top: 10px;
+	color: white;
+}
+p{
+	color:white;
+}
+h3{
+	margin-top: 10px;
+	color: white;
+}
+h2{
+	margin-top: 30px;
+	color: black;
+}
+.q{
+	margin-top: 40px ;
+	color: white;
+}
+.in{
+	margin-left: 60px;
+}.in1{
+
+	margin-left: 190px;}
+h1{
+	margin-top: -20px;
+	color: white;
+	font-size: 80px;
+opacity: 0.5;
+}
+.r2{
+	margin-top: -5px;
+	margin-bottom:-5px;
+	color: yellow;
+}
+.rm{margin-top: 50px;
+	display: inline;
+	margin-left: 10px;
+	text-align: left;
+}
+.rn{
+	margin-top: -25px;
+	margin-left: 5px;
+	text-align: left;
+}
+.t{padding-bottom: 1px;
+	margin-top:-100px ;
+	margin-left: 185px;
+
+	
+}
+.ww{
+	float:right;
+	margin-top: -2px;
+	margin-right:300px;
+}
+.wy{
+	
+	margin-left:300px;
+}.xy
+{
+	float: left;
+	display: inline;
+	margin-top: 300px;
+	margin-left: 10px;
+}
+.z{
+text-align: center;	
+	color:black ;
+	font-family: bold;
+	margin-top: 20px;
+	margin-left: 10px;
+	}
+	.iq{
+		float: left;
+		color: yellow;
+	}
+	.ir{
+		
+		color: yellow;
+		opacity: 0.5;
+		font-size: 180px;
+	}
+.em{
+	text-align: center;
+	color: black;
+	padding: 10px;
+}
+span{text-align: center;
+color: black;}
